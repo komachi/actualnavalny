@@ -1,0 +1,15 @@
+{
+  "name": "actualnavalny",
+  "title": "Актуальный Навальный",
+  "id": "jid1-UQhu0oOBsxgAfQ",
+  "description": "Аддон для обхода блокировки блога Навального в ЖЖ.",
+  "icon": "data/navalny48.png",
+  "icon64": "data/navalny64.png",
+  "homepage": "https://github.com/komachi/actualnavalny",
+  "author": "Антон Нестеров",
+  "license": "MPL 2.0",
+  "version": "0.1",
+  "permissions": {
+    "private-browsing": true
+  }
+}
